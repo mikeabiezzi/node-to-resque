@@ -1,0 +1,16 @@
+{
+  "author": "wookiehangover",
+  "name": "redis-pusher",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "hiredis": "0.1.14",
+    "redis": "0.7.1",
+    "winston": "0.5.11"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
